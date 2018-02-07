@@ -1,0 +1,5 @@
+FOLLOW THE STEP TO run C++ in your git bash :
+
+1. Download MinGW Installation manager from the given link 
+   https://yichaoou.github.io/tutorials/software/2016/06/28/git-bash-install-gcc
+2. After the installation , install the pakage of gcc or c++ in  MinGW.
