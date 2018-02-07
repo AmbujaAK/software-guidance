@@ -1,0 +1,5 @@
+STEPS to be followed :
+
+1. download git for windows from the given link (https://gitforwindows.org).
+2. install it .
+3. 
