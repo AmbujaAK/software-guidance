@@ -12,4 +12,6 @@
 
 > Git For Windows
 
-> pyCharm
+> PyCharm
+
+> Python
