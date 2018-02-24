@@ -1,6 +1,6 @@
 # Android Studio
 
-> **Requirements Before installing Android Studi**
+> **Requirements Before installing Android Studio**
 - 64-bit distribution capable of running 32-bit applications
 - 3 GB RAM minimum, 8 GB RAM recommended; plus 1 GB for the Android Emulator
 - 2 GB of available disk space minimum, 4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
